@@ -23,7 +23,7 @@ Clone the repository:
 
 bash
 
-Verify
+
 
 Open In Editor
 Edit
@@ -33,7 +33,7 @@ Navigate into the project directory:
 
 bash
 
-Verify
+
 
 Open In Editor
 Edit
@@ -43,7 +43,6 @@ Run the game:
 
 bash
 
-Verify
 
 Open In Editor
 Edit
@@ -63,7 +62,7 @@ Fork the repository.
 Create a new branch:
 bash
 
-Verify
+
 
 Open In Editor
 Edit
@@ -72,7 +71,7 @@ git checkout -b feature/YourFeatureName
 Make your changes and commit them:
 bash
 
-Verify
+
 
 Open In Editor
 Edit
@@ -81,7 +80,7 @@ git commit -m "Add your message here"
 Push to your branch:
 bash
 
-Verify
+
 
 Open In Editor
 Edit
